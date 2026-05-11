@@ -16,3 +16,8 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+/user_guide/
+/application/cache/*
+.index.php
+.htaccess
+application/config/database.php
